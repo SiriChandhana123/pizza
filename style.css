@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 580px;
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat ;
+    background-size: 1270px 580px;
+}
+h1{
+    color: bisque;
+    font-size: 70px;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+#register,#login{
+    height: 60px;
+    width: 160px;
+    background-color: gold;
+}
+#register{
+    margin-left: 200px;
+}
+#register a,#login a{
+    color: red;
+    font-size: 21px;
+    text-decoration: none;
+}
+#register:hover{
+    background-color: pink;
+}
+#login:hover{
+    background-color: pink;
+}

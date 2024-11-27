@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 560px;
+    background-image: url(bg2.avif);
+    background-repeat: no-repeat;
+    background-size: 1280px 560px;
+}
+form{
+    border: solid 1px white;
+    margin-left: 700px;
+    width: 500px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+label{
+    color: beige;
+    font-size: 25px;
+}
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 310px;
+}
+button{
+    height: 45px;
+    width: 135px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+p a{
+    color: red;
+    font-size: 35px;
+}
